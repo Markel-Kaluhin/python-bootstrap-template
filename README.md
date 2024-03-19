@@ -16,7 +16,7 @@ Here, I intend to keep up-to-date all my essential and favorite linters and othe
 
 To work with this repo you need to know how to work with [Pipenv](https://pipenv.pypa.io/en/latest/) package manager
 
-Here I utilized Python version 3.11.5 if you want to change target version you'd need to change Python version in:
+Here I utilized Python version 3.12.2 if you want to change target version you'd need to change Python version in:
 1. [Pipfile](Pipfile) to change used version of Python
 1. [pyproject.toml](pyproject.toml) to specify target `Python` version for `Black` linter
 1. [setup.cfg](setup.cfg) to specify target `Python` version for `Mypy`
