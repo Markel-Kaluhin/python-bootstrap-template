@@ -5,7 +5,7 @@ from src.app import example
 
 class TestCaseExampleApp(unittest.TestCase):
     def setUp(self) -> None:
-        ...
+        pass
 
     def test_example_happy_path(self) -> None:
         number_a = 1
