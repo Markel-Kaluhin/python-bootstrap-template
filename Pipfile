@@ -12,7 +12,7 @@ mypy = "==1.5.1"
 pre-commit = "==3.4.0"
 pylint = "==3.0.0a5"
 pytest = "==7.4.2"
-black = "==23.9.1"
+black = "==24.3.0"
 
 [packages]
 
